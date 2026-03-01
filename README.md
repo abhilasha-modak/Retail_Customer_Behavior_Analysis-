@@ -56,3 +56,16 @@ Raw Data → Python Cleaning → SQL Validation → Power BI Visualization
 Project Files
 1. Google Colab Notebook: https://colab.research.google.com/drive/1zSbS4OqgAA0X7AYHZ9_vhQ2O4MNV_DyQ?usp=sharing
 2. Power BI Dashboard (.pbix file): Available in /powerbi folder
+
+Key Insights
+- Clothing category generates the highest revenue.
+- Male customers contribute more total revenue compared to female customers.
+- Discounts significantly influence purchase behavior.
+- Credit Card and PayPal are the most preferred payment methods.
+
+Learning Outcomes
+- Hands-on experience in full analytics workflow
+- Understanding of layered data architecture
+- Business-oriented dashboard design
+- SQL metric validation before BI visualization
+- Practical retail data analysis
